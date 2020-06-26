@@ -1,0 +1,7 @@
+# Ignore the build directory.
+build
+docs/html
+docs/latex
+
+# OSX automatically includes these, so ignore them as well.
+.DS_Store
